@@ -1,0 +1,8 @@
+{
+  "type": "postgress",
+  "host": "",
+  "port": 5434,
+  "username": "",
+  "password": "",
+  "database": ""
+}
